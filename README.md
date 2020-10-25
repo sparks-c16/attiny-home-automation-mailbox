@@ -6,5 +6,4 @@ On going
 
 * Schéma
 
-![Alt text](./resources/attiny-mailbox-automation-2.svg)
-<img src="./resources/attiny-mailbox-automation-2.svg">
+<img src="./resources/attiny-mailbox-automation.svg">

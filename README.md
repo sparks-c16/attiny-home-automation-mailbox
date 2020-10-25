@@ -4,6 +4,6 @@ Boîte aux lettres domotique autour d'un ATtiny85
 On going
 
 
-* Schéma
+* Prototypage
 
 <img src="./resources/attiny-mailbox-automation.svg">

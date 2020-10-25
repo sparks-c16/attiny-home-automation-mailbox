@@ -8,7 +8,7 @@ On going
 - Détecteur d'ouverture portes avant et arrière, et fenêtre
 - Détecteur d'intrusion (ouverture du boitier contenant le circuit)
 - Mesure de la tension de la batterie
-- Emission de signaux RF 433MHz dans un protocole reconnu par box domotique
+- Emission de signaux RF 433MHz dans un protocole reconnu par les box domotiques
 - La box domotique signalant le passage du facteur par un SMS
 
 
@@ -37,6 +37,8 @@ On going
 
 ## Schéma
 
+...
+
 
 ## Principes
 
@@ -48,6 +50,7 @@ On going
 
 ## Réalisation
 
+...
 
 
 ## Pistes d'amélioration
